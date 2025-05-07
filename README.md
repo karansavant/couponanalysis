@@ -52,6 +52,6 @@ The dataset contains features such as:
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 This project showcases how behavior data and machine learning can help businesses tailor real-time marketing strategies. Understanding drivers' habits and context can greatly improve targeted coupon delivery success.
