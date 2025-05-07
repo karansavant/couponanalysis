@@ -1,7 +1,7 @@
 
 # Coupon Acceptance Prediction
 
-This project explores **factors influencing whether a driver will accept a coupon delivered while driving**, using data-driven analysis and predictive modeling.
+This project explores **factors influencing whether a driver will accept a coupon delivered while driving**, using data-driven analysis.
 
 ## Project Overview
 
